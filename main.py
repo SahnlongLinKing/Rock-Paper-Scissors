@@ -59,12 +59,12 @@ while i < 2:
             print(f"""And you chose rock:
       {asciihands.rock}
       """)
-            print("You win.")
+            print("It's a tie.")
         elif userchoice == "2":
             print(f"""And you also chose paper:
       {asciihands.paper}
       """)
-            print("I win.")
+            print("It's a tie.")
         elif userchoice == "3":
             print(f"""And you also chose scissors:
       {asciihands.scissors}
